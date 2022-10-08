@@ -49,3 +49,14 @@ Add a new `elif` block to `create_tensor` and the relevant loading logic.
 The function to load the dataset should return a `(np.array, list<nx.Graph>)` tuple (you may be able to get it to work with only one, but may also require a little modification). See `load_mtx` as an example.
 
 Then, you can set the `dataset` and `tensor_slices` parameters when you run the model, and it should use the corresponding dataset. Note that you may have to append `_small` or `_large` to the dataset depending on if you want smaller or larger samples.
+
+### Citation
+
+If you use this code in your work, please cite our workshop paper (full version under review):
+
+    @article{shiao2022adversarial,
+    title={Adversarial Generation of Multi-View Tensor Graphs: A Preliminary Model and Encouraging Results},
+    author={Shiao, William and Miller, Benjamin A and Chan, Kevin and Yu, Paul and Eliassi-Rad, Tina and Papalexakis, Evangelos E},
+    year={2022},
+    journal={MLoG Workshop at ICDM}
+    }
