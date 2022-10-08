@@ -1,0 +1,10 @@
+DBLP_four_area
+IMDB_movie
+PubMed
+syn_*
+*.zip
+football
+*.pkl
+*.json
+enron*
+nell*

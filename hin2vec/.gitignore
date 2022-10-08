@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.swo
+*.swn
+metapath_vectors.txt
+node_vectors.txt
