@@ -1,4 +1,5 @@
-# graph-gan
+TenGAN
+-----
 
 ## Tensor Model
 ### How to run
