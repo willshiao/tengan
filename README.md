@@ -54,9 +54,10 @@ Then, you can set the `dataset` and `tensor_slices` parameters when you run the 
 
 If you use this code in your work, please cite our workshop paper (full version under review):
 
-    @article{shiao2022adversarial,
-    title={Adversarial Generation of Multi-View Tensor Graphs: A Preliminary Model and Encouraging Results},
+    @article{shiao2023adversarial,
+    title={TenGAN: Adversarially Generating Multiplex Tensor Graphs},
     author={Shiao, William and Miller, Benjamin A and Chan, Kevin and Yu, Paul and Eliassi-Rad, Tina and Papalexakis, Evangelos E},
-    year={2022},
-    journal={MLoG Workshop at ICDM}
+    year={2023},
+    journal={Data Mining and Knowledge Discovery},
+    publisher={Springer}
     }
